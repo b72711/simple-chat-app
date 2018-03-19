@@ -1,1 +1,1 @@
-Simple chat made following https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
+Simple __chat__ made following [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a by https://twitter.com/flaviocopes) by [@flaviocopes](https://twitter.com/flaviocopes)
